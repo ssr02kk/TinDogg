@@ -1,0 +1,5 @@
+There are total 12 units in a row
+
+so you can used col-4 for 3 items to be on full screen 
+
+col-md-6 for having responsive 6 units 
